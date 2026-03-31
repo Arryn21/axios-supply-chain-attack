@@ -108,6 +108,8 @@ The RAT targeted developer machines specifically. Credentials accessible at inst
 > - Windows → **`check_axios_windows.ps1`**
 > - macOS   → **`check_axios_macos.sh`**
 > - Linux   → **`check_axios_linux.sh`**
+>
+> **Tested:** The Linux script was run on a real system that had executed `npm install` the day after the attack window. No malicious versions or RAT artifacts were detected.
 
 ### Quick Check (any platform)
 
